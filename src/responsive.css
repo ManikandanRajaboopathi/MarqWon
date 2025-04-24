@@ -1,0 +1,21 @@
+@media (max-width: 576px){
+    .content-wrapper{
+        max-width: 100% !important;
+    }
+
+    .site-footer__menu__list{
+        display: block !important;
+    }
+
+    .site-footer__menu{
+        display: block !important;
+    }
+
+    .site-footer__menu__list li{
+        padding: 10px 0;
+    }
+
+    .dna-card{
+        width: 100% !important;
+    }
+}
